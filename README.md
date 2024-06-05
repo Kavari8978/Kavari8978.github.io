@@ -11,7 +11,7 @@
         <h1>Kavari Leonard</h1>
         <img src="photo.jpg" alt>
         <p>My name is Kavari Leonard. I am a computer science major and senior at Bowie State University. MentMy skills include Python and a bit of C++ programming languages. </p>
-        <p><a href="resume.pdf" target="_blank">Download My Resume</a></p>
+        <p><a href="resume.pdf" target="https://docs.google.com/document/d/1pQ8YnJvgZO31xzqo8SPCstDVn22o3X18/edit">Download My Resume</a></p>
     </div>
 </body>
 </html>
