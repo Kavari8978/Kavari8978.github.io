@@ -9,9 +9,9 @@
 <body>
     <div class="container">
         <h1>Kavari Leonard</h1>
-        <img src="photo.jpg" alt>
-        <p>My name is Kavari Leonard. I am a computer science major and senior at Bowie State University. MentMy skills include Python and a bit of C++ programming languages. </p>
-        <p><a href="resume.pdf" target="https://docs.google.com/document/d/1pQ8YnJvgZO31xzqo8SPCstDVn22o3X18/edit">Download My Resume</a></p>
+        <img src="photo.jpg" alt="Kavari Leonard's Photo">
+        <p>My name is Kavari Leonard. I am a computer science major and senior at Bowie State University. My skills include Python and a bit of C++ programming languages. I'm currently an intern student at ODU working on human detection using an EEG headset.</p>
+        <p><a href="https://docs.google.com/document/d/1pQ8YnJvgZO31xzqo8SPCstDVn22o3X18/view" target="_blank">Download My Resume</a></p>
     </div>
 </body>
 </html>
