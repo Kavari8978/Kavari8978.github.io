@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1>Kavari Leonard</h1>
-        <img src="photo.jpg" alt="Your Name">
+        <img src="photo.jpg" alt>
         <p>My name is Kavari Leonard. I am a computer science major and senior at Bowie State University. MentMy skills include Python and a bit of C++ programming languages. </p>
         <p><a href="resume.pdf" target="_blank">Download My Resume</a></p>
     </div>
